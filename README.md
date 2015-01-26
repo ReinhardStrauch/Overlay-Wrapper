@@ -18,5 +18,5 @@ This wrapper template app can be modified via strings.xml, colors.xml, styles.xm
 
 
 This wrapper template app copies the bitSyko-overlays.zip from /assests to /sdcard at 1st.
-Then the zipfile will be extracted to the well known /sdcard/SykoPath-Overays - folder 
-(all overla.apk(s) into their right place/categories)...
+Then the zipfile will be extracted to the well known /sdcard/SykoPath-Overlays - folder 
+(all overlay.apk(s) into their right place/categories)...
