@@ -1,0 +1,25 @@
+<resources>
+ 	<style
+		name="MaterialLight" parent="@android:style/Theme.Material.Light">
+   
+     <item name="android:colorPrimary">#458CCA</item>
+    <item name="android:colorPrimaryDark">#0A3E5F</item>
+    <!-- 
+    <item name="android:navigationBarColor">#256CAA</item>
+    -->
+    <!-- 
+    <item name="android:navigationBarColor">#256CAA</item>
+    -->
+    <item name="android:colorAccent">#458CCA</item>  
+    
+    <item name="android:textColorPrimary">#FFFFFF</item>  
+    <item name="android:colorBackground">#FFFFFF</item>
+    <item name="android:windowBackground">@android:color/white</item>  
+    <item name="android:actionMenuTextColor">#000000</item> 
+    <item name="android:textColorSecondary">#000000</item>
+ 
+    
+ 
+    
+    </style>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Overlay-Wrapper</string>
+    <string name="pushButton">Push To Layers...</string>
+    <string name="infoShort">Sample Overlay Packages (infoShort)</string>
+    <string name="infoLong">
+        Put your (infoLong) here \n
+         \n
+        Different Overlays for bitSyko Layers \n
+         \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+        This is a testline \n
+
+               
+    </string>
+    <string name="pushMsgStart">Pushing</string>
+    <string name="pushMsgEnd">files to Layers</string>
+    <string name="msg_Done">Pushed overlays to Layers</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    
+</resources>
